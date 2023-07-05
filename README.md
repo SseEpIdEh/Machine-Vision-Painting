@@ -25,7 +25,7 @@ This project allows you to create a virtual paint program using your webcam and 
 ## File Structure
 - `virtual_paint.py`: The main script that captures the webcam feed, detects hand gestures, and handles the drawing logic.
 - `HandModule.py`: A custom module that provides hand detection and tracking functionalities.
-- `toolbar/`: A directory containing toolbar images for selecting colors and brush thickness.
+- `toolbar/`: A directory containing toolbar images for selecting colors and brush thickness.(consist of four image 1.jpg,2.jpg,,,and so on)
 
 
 
